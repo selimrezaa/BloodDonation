@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2ada4c4-2e35-4ecd-8b2b-3c85f9983133" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yaASK4oMw3u50TQTjscCnNwatr" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/App_User" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Youtech BD\PycharmProjects\BloodDonation\templates\App_User" />
+      <recent name="C:\Users\Youtech BD\PycharmProjects\BloodDonation\media" />
+      <recent name="C:\Users\Youtech BD\PycharmProjects\BloodDonation\static" />
+      <recent name="C:\Users\Youtech BD\PycharmProjects\BloodDonation\templates\App_Accounts" />
+      <recent name="C:\Users\Youtech BD\PycharmProjects\BloodDonation\templates\App_Blood" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BloodDonation" type="Python.DjangoServer" factoryName="Django server">
+      <module name="BloodDonation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Youtech BD\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="blooddonation.com" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2ada4c4-2e35-4ecd-8b2b-3c85f9983133" name="Default Changelist" comment="" />
+      <created>1632479323997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632479323997</updated>
+      <workItem from="1632479325305" duration="10355000" />
+      <workItem from="1632499085034" duration="6377000" />
+      <workItem from="1632510077628" duration="753000" />
+      <workItem from="1632543204978" duration="33000" />
+      <workItem from="1632587002248" duration="4931000" />
+      <workItem from="1632632553453" duration="7000" />
+      <workItem from="1632677790658" duration="4830000" />
+      <workItem from="1632749684793" duration="9147000" />
+      <workItem from="1632809170977" duration="39000" />
+      <workItem from="1632851712392" duration="4156000" />
+      <workItem from="1632889836816" duration="45000" />
+      <workItem from="1632931400125" duration="9919000" />
+      <workItem from="1632975940930" duration="130000" />
+      <workItem from="1633022859027" duration="11400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
